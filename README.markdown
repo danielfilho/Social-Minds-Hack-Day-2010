@@ -1,3 +1,5 @@
+> this project is no longer active
+
 F1-Stats
 ======
 Project made for Brazil Open Hack Day 2010 using canvas visualization of F1 seasons using information from [Ergast Developer API](http://ergast.com/mrd/).
